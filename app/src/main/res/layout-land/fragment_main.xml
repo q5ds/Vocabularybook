@@ -10,23 +10,16 @@
         android:layout_weight="1"
         android:gravity="center">
 
-        <Button
-            android:id="@+id/btn_add"
+        <TextView
+            android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            style="@style/ButtonFont"
-            android:text="添加单词" />
+            android:textSize="65px"
+            android:text="单击左侧单词查看释义，竖屏进行其它功能!!!">
+
+        </TextView>
 
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        android:gravity="center">
 
-
-
-    </LinearLayout>
 
 </LinearLayout>

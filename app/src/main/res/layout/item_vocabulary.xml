@@ -33,7 +33,7 @@
             android:id="@+id/btn_delete"
             android:text="删除"
             android:textSize="9pt"
-            android:textColor="#FF4500"
+
             />
 
     </LinearLayout>
